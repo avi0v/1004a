@@ -4,3 +4,6 @@
 3.index()
 5.reverse()
 6.sort()
+7.count()
+8.len()
+
